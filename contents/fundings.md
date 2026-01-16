@@ -1,17 +1,27 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
 
-#### Contact
+[1] 2023.01-2025.12 国家自然科学基金委青年项目“在华外商撤资的动因和创新效应研究：基于知识产权保护执法视角”（72203067），已结项，国家级课题。
 
-Email: senli[at]fas.harvard.edu
+[2] 2019.11-2020.11 国家社会科学基金后期资助“中国对外直接投资对出口增加值的影响研究”（项目编号：19FJLY003），已结项. 国家级课题。
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+[3] 2019.3-2020.3 国家自然科学基金委国际交流项目“foreign divestment and divested affiliates’ innovating performance”（项目编号：GZ 1535），已结项。国家级课题。
 
-#### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+[4] 2025.5-2025.7 国务院发展研究中心（省部级），从贸易角度考察全球经济格局及中美经济联系演进2005-2024年，3万。省部级课题。
 
+[5] 2024.6-2024.8 国务院发展研究中心课题“中美博弈背景下中印国际产业竞争力比较研究”。省部级课题。
+
+[6] 2023.12-2024.1 国务院发展研究中心课题“应对进口‘卡脖子’商品断供威胁”。省部级课题。
+
+[7] 2023.7-2023.8 国务院发展研究中心课题“从贸易角度考察全球经济格局及中美经济联系演进2003-2022年”。省部级课题。
+
+[8] 2022.6-2022.9 国务院发展研究中心课题“美国对华加征301关税与中美贸易：情境模拟与政策效应评估”。省部级课题。
+
+[9] 2021.9-2021.12 国务院发展研究中心课题“中美在全球价值链中的“依赖”与“脱钩”研究”。省部级课题。
+
+[10] 2021.12-2024.12 华中农业大学自主科技创新基金“在华外商撤资的知识产权保护诱因及其创新效应研究”。
+
+[11] 2023.4-2024.12 华中农业大学经济管理学院自主科技创新基金项目“在华外商撤资的环境规制动因：基于两控区政策的准自然实验”。
+
+[12] 2019.8-2021.12  武汉大学人文社会科学自主科研项目“沿线国视角下“一带一路”倡议的贸易效应研究”。
