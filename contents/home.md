@@ -1,7 +1,7 @@
 
 
 
-华中农业大学副教授、德国基尔全球化中心（Kiel Center for Globalization，Germany）外部研究员。主要研究领域为农产品国际供应链、农产品国际贸易、国际直接投资等。已在Canadian Journal of Economics, Agricultural Economics, The World Economy, Emerging Market Finance and Trade, 《数量经济技术经济研究》，《国际贸易问题》等国内外权威期刊上发文十余篇。主持国家自然科学基金1项、国家社科基金1项、国家自科基金国际交流项目1项、省部级课题5项。
+华中农业大学副教授、德国基尔全球化中心（Kiel Center for Globalization，Germany）外部研究员,国家现代农业（柑橘）产业技术体系产业经济研究室核心成员。主要研究领域为农产品国际供应链、农产品国际贸易、国际直接投资等。已在Canadian Journal of Economics, Agricultural Economics, The World Economy, Emerging Market Finance and Trade, 《数量经济技术经济研究》，《国际贸易问题》等国内外权威期刊上发文十余篇。主持国家自然科学基金1项、国家社科基金1项、国家自科基金国际交流项目1项、省部级课题5项。
 
 #### Contact
 
