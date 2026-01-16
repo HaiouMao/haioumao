@@ -1,13 +1,9 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+招生：农林经济管理学术型博士，应用经济学（包括产业经济学、金融学、数量经济学）学术型硕士，农业管理专业型硕士
 
-- Outstanding Undergraduate Thesis Award (Jiangsu Provincial Dept. of Education, China), 2022.
+在校生：2024级董紫怡，2025级昝丽君，2025级宋沛煊，2025级贾乐乐
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+毕业生：2025届张佳丽，2025届杨楠楠，2023级转博杨柳
 
